@@ -80,4 +80,16 @@ This analysis is relevant for:
 
 ---
 
-## 📁 Project Structure
+---
+
+## 👤 Author
+
+Ignacio Torres Olave  
+Agricultural Engineer | Sustainability & Data Analytics Focus  
+Based in France 🇫🇷  
+
+---
+
+## 📌 Note
+
+This project was developed for learning and portfolio purposes, focusing on ESG and climate data analytics using Python.
