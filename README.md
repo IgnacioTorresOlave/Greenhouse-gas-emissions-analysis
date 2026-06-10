@@ -1,5 +1,5 @@
-# Climate Data Analysis – Greenhouse Gas Emissions
-# 🌍 Climate Emissions Analysis (ESG Case Study)
+# Greenhouse Gas Emissions Analysis (Python)
+# ESG case study on global greenhouse emissions using exploratory data analysis
 
 ## 📌 Overview
 
