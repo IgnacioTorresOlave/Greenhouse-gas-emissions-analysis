@@ -56,10 +56,10 @@ This project was developed as part of a data and sustainability portfolio focuse
 
 ## 🌍 Key Insights
 
-- Emissions trajectories vary significantly across countries  
-- Developed economies show stabilization or gradual decline  
-- Emerging economies show increasing trends linked to industrial growth  
-- Land-use inclusion affects total emissions footprint significantly  
+- Emissions trajectories vary significantly across countries, reflecting structural economic differences
+- Developed economies show stabilization or gradual decline in emissions over time
+- Emerging economies exhibit increasing trends driven by industrial expansion
+- Inclusion of land-use data significantly impacts total emissions accounting and comparability  
 
 ---
 
@@ -89,8 +89,8 @@ This analysis is relevant for:
 ## 👤 Author
 
 Ignacio Torres Olave  
-Agricultural Engineer | Sustainability & Data Analytics Focus  
-Based in France 🇫🇷  
+Agricultural Engineer | Student MSc Data & AI for Sustainability · Albert School · Mines Paris–PSL | Looking for an apprenticeship
+Based in Paris, France 🇫🇷  
 
 ---
 
