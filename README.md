@@ -1,4 +1,4 @@
-# Emissions-analysis
+# Climate Data Analysis – Greenhouse Gas Emissions
 # 🌍 Climate Emissions Analysis (ESG Case Study)
 
 ## 📌 Overview
