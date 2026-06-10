@@ -48,6 +48,11 @@ This project was developed as part of a data and sustainability portfolio focuse
 - Trend identification over a 25-year period  
 
 ---
+## Results
+
+![Greenhouse Gas Emissions Analysis](Graphic.png)
+
+---
 
 ## 🌍 Key Insights
 
@@ -80,7 +85,6 @@ This analysis is relevant for:
 
 ---
 
----
 
 ## 👤 Author
 
